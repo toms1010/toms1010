@@ -22,7 +22,7 @@ I love building creative and innovative projects that connect **hardware and sof
 ---
 
 - 👨‍💻 All of my projects are available at  
-  [**My Portfolio**](https://toms1010.github.io/portfolio-w-certifications/)
+  [**My Portfolio → Tommy Paolma**](https://toms1010.github.io/portfolio-w-certifications/)  
 
 - 📫 Reach me at: **tpaolma@gmail.com**
 
