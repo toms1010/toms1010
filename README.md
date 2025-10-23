@@ -21,21 +21,17 @@ I love building creative and innovative projects that connect **hardware and sof
 
 ---
 
-- 👨‍💻 All of my projects are available at  
-  [**My Portfolio → Tommy Paolma**](https://toms1010.github.io/portfolio-w-certifications/)  
-
-- 📫 Reach me at: **tpaolma@gmail.com**
-
----
-
-<h3 align="center">🌐 Connect with me</h3>
+### 🌐 Portfolio & Contact
 
 <p align="center">
-  <a href="https://fb.com/tommy b. paolma" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/>
+  <a href="https://toms1010.github.io/portfolio-w-certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-0e75b6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:tpaolma@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+  <a href="mailto:tpaolma@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://fb.com/tommy.b.paolma" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
 
