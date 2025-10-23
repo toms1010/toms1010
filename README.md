@@ -7,8 +7,22 @@
 
 ---
 
+## 👋 About Me
+
+Hi, I'm **Tommy Paolma**, a passionate **Software and Electronics Engineering student** from the Philippines 🇵🇭.  
+I love building creative and innovative projects that connect **hardware and software**, from Arduino-based systems to full-stack applications.
+
+- 🎯 Currently exploring **Flutter**, **React**, and **IoT Systems**
+- 💡 Interested in **Cybersecurity**, **Embedded Systems**, and **Artificial Intelligence**
+- 🔧 Skilled in **C++**, **Python**, **PHP**, **MySQL**, and **Java**
+- 🚀 Always excited to learn and build real-world tech solutions  
+
+> “Code is where creativity meets logic — and I’m here to build both.”
+
+---
+
 - 👨‍💻 All of my projects are available at  
-  [**My Portfolio**](https://toms1010.github.io/portfolio-w-certifications/?fbclid=IwY2xjawNnGyVleHRuA2FlbQIxMABicmlkETF2SDJwT1ZkeVMwMUt6NjZ6AR69d4rxDD69WIK6XdEzqdDoHPDqyjaw7DLVmdXyEOVTiQBH-2hVwEypw3Y7Rw_aem_Kbxbo16ddaEmnHCV9unxYQ)
+  [**My Portfolio**](https://toms1010.github.io/portfolio-w-certifications/)
 
 - 📫 Reach me at: **tpaolma@gmail.com**
 
@@ -61,3 +75,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toms1010&theme=tokyonight" alt="toms1010" />
 </p>
 
+---
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=toms1010&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">✨ Fun Fact</h3>
+<p align="center">I love combining hardware and software — from Arduino circuits to mobile and web applications 🚀</p>
