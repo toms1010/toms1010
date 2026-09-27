@@ -165,4 +165,4 @@ drwxr-xr-x  Game Development                      [ Godot Engine | Logic & OOP ]
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,25:003B73,50:001F3F,75:090979,100:020024&height=120&section=footer"/>
-```
+
