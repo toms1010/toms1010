@@ -108,26 +108,50 @@ drwxr-xr-x  Game Development                      [ Godot Engine | Logic & OOP ]
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=toms1010&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00E0FF&amp;icon_color=00E0FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;cache_seconds=86400" alt="Tommy Paolma GitHub Stats" />
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=toms1010&amp;hide_border=true&amp;background=0D1117&amp;stroke=00E0FF&amp;ring=00E0FF&amp;fire=00FFFF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=00E0FF&amp;sideLabels=00E0FF&amp;dates=8B949E" alt="Tommy Paolma GitHub Streak" />
-</div>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=toms1010&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00E0FF&amp;icon_color=00E0FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;rank_icon=github&amp;cache_seconds=86400"
+    alt="Tommy Paolma GitHub Stats"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=toms1010&amp;hide_border=true&amp;background=0D1117&amp;border=0D1117&amp;stroke=00E0FF&amp;ring=00E0FF&amp;fire=00FFFF&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=00E0FF&amp;sideLabels=00E0FF&amp;dates=8B949E"
+    alt="Tommy Paolma GitHub Streak"
+  />
+</p>
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toms1010&amp;layout=compact&amp;hide_border=true&amp;title_color=00E0FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;langs_count=10&amp;cache_seconds=86400" alt="Most Used Programming Languages" />
-</div>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toms1010&amp;layout=compact&amp;hide_border=true&amp;title_color=00E0FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;langs_count=8&amp;card_width=420&amp;cache_seconds=86400"
+    alt="Most Used Programming Languages"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=toms1010&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00E0FF&amp;icon_color=00E0FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;hide=stars,prs,issues,contribs&amp;show=reviews,discussions_started&amp;cache_seconds=86400"
+    alt="Additional GitHub Stats"
+  />
+</p>
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=toms1010&amp;bg_color=0d1117&amp;color=00e0ff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Tommy%20Paolma%20-%20Contribution%20Activity%20Graph" alt="GitHub Activity Graph"/>
-</div>
+<p align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=toms1010&amp;bg_color=0D1117&amp;color=00E0FF&amp;line=00FFFF&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;custom_title=Tommy%20Paolma%20-%20Contribution%20Activity%20Graph"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=toms1010&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=toms1010&amp;theme=onestar&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=15&amp;margin-h=15"
+    alt="GitHub Trophies"
+  />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
