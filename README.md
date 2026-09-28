@@ -106,23 +106,11 @@ drwxr-xr-x  Game Development                      [ Godot Engine | Logic & OOP ]
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toms1010/toms1010/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toms1010/toms1010/output/github-contribution-grid-snake.svg">
-    <img alt="Animated GitHub Contribution Snake" src="https://raw.githubusercontent.com/toms1010/toms1010/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00E0FF?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=000000)](https://toms1010.github.io/Tommy-Paolma-CpE-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00E0FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=000000)](https://tommy-paolma-cpe-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&amp;logo=github&amp;logoColor=00E0FF)](https://github.com/toms1010)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:tpaolma@gmail.com)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-0A66C2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white)](https://fb.com/tommy.b.paolma)
