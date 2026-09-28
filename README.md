@@ -1,11 +1,6 @@
-
-</p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="80%" alt="Divider animation"/>
 </p>
-
-
 
 I'm a **Computer Engineering student** driven by the idea of understanding how technology works from the inside out. I love building projects that bridge the gap between **electronic hardware and intelligent software** to create practical and real-world solutions.
 
@@ -106,7 +101,7 @@ drwxr-xr-x  Game Development                      [ Godot Engine | Logic & OOP ]
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Engineering Problem-Solving Cycle
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=700&color=00FFFF&center=true&vCenter=true&width=1100&lines=IDENTIFY+PROBLEM+→+RESEARCH+→+DESIGN+CIRCUIT+%26+LOGIC+→+CODE+→+TEST+→+DEBUG+→+OPTIMIZE+→+IMPLEMENT+→+IMPROVE" alt="Engineering Workflow Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=700&color=00FFFF&center=true&vCenter=true&width=1100&lines=IDENTIFY+PROBLEM+%E2%86%92+RESEARCH+%E2%86%92+DESIGN+CIRCUIT+%26+LOGIC+%E2%86%92+CODE+%E2%86%92+TEST+%E2%86%92+DEBUG+%E2%86%92+OPTIMIZE+%E2%86%92+IMPLEMENT+%E2%86%92+IMPROVE" alt="Engineering Workflow Animation"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -115,7 +110,7 @@ drwxr-xr-x  Game Development                      [ Godot Engine | Logic & OOP ]
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=toms1010&show_icons=true&count_private=true&hide_border=true&title_color=00E0FF&icon_color=00E0FF&text_color=C9D1D9&bg_color=0D1117" alt="Tommy Paolma GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=toms1010&hide_border=true&background=0D1117&stroke=00E0FF&ring=00E0FF&fire=00FFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00E0FF&sideLabels=00E0FF&dates=8B949E" alt="Tommy Paolma GitHub Streak" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=toms1010&hide_border=true&background=0D1117&stroke=00E0FF&ring=00E0FF&fire=00FFFF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00E0FF&sideLabels=00E0FF&dates=8B949E" alt="Tommy Paolma GitHub Streak" />
 </div>
 
 <div align="center">
@@ -165,4 +160,3 @@ drwxr-xr-x  Game Development                      [ Godot Engine | Logic & OOP ]
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,25:003B73,50:001F3F,75:090979,100:020024&height=120&section=footer"/>
-
